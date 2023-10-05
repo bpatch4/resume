@@ -47,7 +47,7 @@
                   </ul>
                 </li>
                 <li class="nav-item"> <a class="nav-link" href="#navbarSupportedContent">
-                    <p>English</p>
+                    <p>My Works</p>
                   </a> </li>
                 <li class="nav-item"> <a class="nav-link" href="#navbarSupportedContent">
                     <p>Contact</p>
@@ -64,7 +64,8 @@
           <h1 class="text-center"> </h1>
         </div>
         <div class="col mt-auto mb-auto ms-0 ps-0">
-          <h6 class="text-center"> <a name="Home" id="Home"></a>Hello, I'm</h6>
+          <h3 class="text-start circle"> <a name="Home" id="Home"></a>Hello,
+            I'm</h3>
           <h1 style=" font-size:8vw;"><b> Patchamon Khemthong</b></h1>
         </div>
       </div>
@@ -87,13 +88,13 @@
           Age&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-          &nbsp;&nbsp;&nbsp; 20<br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 20<br>
           <br>
-          Date of Birth&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 11 April 2003<br>
+          Date of Birth&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 11
+          April 2003<br>
           Nationality&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Thai<br>
+          &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Thai<br>
           Religion&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp; Buddhism<br>
@@ -104,56 +105,58 @@
         <h1 class="d-flex justify-content-center"><a name="Edu" id="Edu"></a><a
             name="Skills" id="Skills"></a>Education</h1>
         <div class="row">
-          <div class="col-md-6 sm-12 mx-0 ps-80px">
-            <h6 class="timeline"><b>2016-2021</b><br>
-              <b>Princess Sirindhorn's College</b> <br>
-            </h6>
-            <h6>&nbsp;&nbsp; English-French Program <br>
-              &nbsp;&nbsp; GPA: 4.00<br>
-            </h6>
-          </div>
-          <div class="col-md-6 sm-12">
-            <h6 class="timeline"><b>2021-now</b><br>
-              <b>Silpakorn University</b> <br>
-            </h6>
-            <h6>&nbsp;Bachelor of Arts (ILS) <br>
-              &nbsp;GPA: 4.00<br>
+          <div class="col-md-2 col-sm-1"> </div>
+          <div class="col-md-5 col-sm-11 ps-3">
+            <h4 class="timeline"><b>2016-2021</b><b> </b><b><br>
+                Princess Sirindhorn's College</b> <br>
+            </h4>
+            <h6>&nbsp;&nbsp;&nbsp; English-French Program <br>
+              &nbsp;&nbsp;&nbsp; GPA: 4.00<br>
             </h6>
           </div>
+          <div class="col-md-4 col-sm-11 ps-5">
+            <h4 class="timeline"><b>2021-now</b><b>&nbsp;&nbsp;&nbsp; <br>
+                Silpakorn University</b> <br>
+            </h4>
+            <h6>&nbsp;&nbsp;&nbsp; Bachelor of Arts (ILS) <br>
+              &nbsp;&nbsp;&nbsp; GPA: 4.00<br>
+            </h6>
+          </div>
+          <div class="col-md-1 col-sm-1"> </div>
         </div>
       </div>
       <hr>
       <div class="row">
         <h1 class="text-center">English Skills</h1>
         <div class="row mx-auto p-2" style="width: 800px">
-          <h6>LISTENING</h6>
+          <h4>LISTENING</h4>
           <div class="cont-eng">
             <div class="lis">
-              <h6>70%</h6>
+              <h4>70%</h4>
             </div>
           </div>
           <h6><br>
           </h6>
-          <h6>SPEAKING</h6>
+          <h4>SPEAKING</h4>
           <div class="cont-eng">
             <div class="spe">
-              <h6>80%</h6>
+              <h4>80%</h4>
             </div>
           </div>
           <h6><br>
           </h6>
-          <h6>READING</h6>
+          <h4>READING</h4>
           <div class="cont-eng">
             <div class="read">
-              <h6>90%</h6>
+              <h4>90%</h4>
             </div>
           </div>
           <h6><br>
           </h6>
-          <h6>WRITING</h6>
+          <h4>WRITING</h4>
           <div class="cont-eng">
             <div class="wri">
-              <h6>70%</h6>
+              <h4>70%</h4>
             </div>
             <br>
           </div>
@@ -164,35 +167,33 @@
       </div>
       <div class="row">
         <div class="col">
-          <div> <img src="images/4%20%282%29.png" class="img-fluid" alt="word"
-              style="width: 160px; height: auto;"></div>
+          <div> <img src="images/w.png" class="img-fluid" alt="word" style="width: 160px; height: auto;"></div>
         </div>
-        <div class="col"><img src="images/5%20%281%29.png" class="img-fluid" alt="Excel"
-            style="width: 160px; height: auto;"></div>
-        <div class="col"><img src="images/6%20%281%29.png" class="img-fluid" alt="PP"
-            style="width: 160px; height: auto;"></div>
-        <div class="col"><img src="images/8%20%281%29.png" class="img-fluid" alt="PS"
-            style="width: 160px; height: auto;"></div>
-        <div class="col"><img src="images/7%20%281%29.png" class="img-fluid" alt="bg"
-            style="width: 160px; height: auto;"></div>
-        <hr> </div>
+        <div class="col"><img src="images/x.png" class="img-fluid" alt="Excel" style="width: 160px; height: auto;"></div>
+        <div class="col"><img src="images/pp.png" class="img-fluid" alt="PP" style="width: 160px; height: auto;"></div>
+        <div class="col"><img src="images/ps.png" class="img-fluid" alt="PS" style="width: 160px; height: auto;"></div>
+        <div class="col"><img src="images/blue.png" class="img-fluid" alt="bg" style="width: 160px; height: auto;"></div>
+        <div class="col"><img src="images/in.png" class="img-fluid" alt="PS" style="width: 160px; height: auto;"></div>
+      </div>
+      <hr>
       <div class="row text-center">
         <h1>Soft Skills</h1>
       </div>
       <div class="row">
-        <div class="col">
-          <h4 class="text-center"><img src="images/idea.png" alt="." style="width: auto; height: 52px;"><br>
+        <div class="col-md-3 col-sm-6">
+          <h4 class="text-center"><img src="images/idea.png" alt="." class="img-fluid"
+              style="width: auto; height: 52px;"><br>
             Problem-solving</h4>
         </div>
-        <div class="col">
+        <div class="col-md-3 col-sm-6">
           <h4 class="text-center"> <img src="images/creativity.png" alt="5" style="width: auto; height: 52px;"><br>
             Creativity</h4>
         </div>
-        <div class="col">
+        <div class="col-md-3 col-sm-6">
           <h4 class="text-center"> <img src="images/open-mind.png" alt="6" style="width: auto; height: 52px;"><br>
             Open-minded</h4>
         </div>
-        <div class="col">
+        <div class="col-md-3 col-sm-6">
           <h4 class="text-center"> <img src="images/teamwork.png" alt="7" style="width: auto; height: 52px;"><br>
             Teamwork</h4>
           <p><br>
@@ -202,20 +203,16 @@
       <div class="row"><br>
       </div>
       <div class="row text-center">
+        <h1>My Works</h1>
+      </div>
+      <hr>
+      <div class="row text-center">
         <h1><br>
           Contact</h1>
-        <div class="col"><img src="images/phone-call.png" alt="d" style="width: 50px; height: auto;"><br>
-          <h4> 089-xxx-xxxx </h4>
-        </div>
-        <div class="col"><img src="images/email.png" alt="r" style="width: 50px; height: auto;"><br>
-          <h4> sxxxxx@gmail.com </h4>
-        </div>
-        <div class="col"><img src="images/facebook.png" alt="s" style="width: 50px; height: auto;"><br>
-          <h4> Bx xxxxx </h4>
-          <p><br>
-          </p>
-        </div>
       </div>
+      <div class="row">
+        <div> &nbsp; &nbsp; </div>
+        <img src="images/md.png" class="d-none d-md-block" alt="md"> </div>
     </div>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
