@@ -1,3 +1,9 @@
+.accordion {
+  --bs-accordion-btn-bg: #ffd5d5;
+  --bs-accordion-active-bg: #ffa6b9;
+  --bs-accordion-bg: #ffdca9;
+  --bs-accordion-btn-focus-box-shadow: none;
+}
 
 .center {
   display: flex;
@@ -5,17 +11,8 @@
   align-items: center;
   height: 300px;}
 
+.ipo {background-color:#d1eddd ;}
 
-.circle {
-  width: 100px;
-  height: 50px;
-  line-height: 50px;
-  border-radius: 15%;
-  font-size: 20px; 2vw; text-align: center;
-  color: #fff;
-  
-  background: #aed07c .2vw;
-}
 
 .imgcenter{display: block; margin-left: auto;
 margin-right: auto;
@@ -75,4 +72,12 @@ width:200px;
 
 .bg4{
   background-color: #d1eddd;
+}
+
+.gender {
+  text-align: left;
+}
+
+.female{
+  text-align: right;
 }
