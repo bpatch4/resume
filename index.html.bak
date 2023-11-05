@@ -143,7 +143,9 @@
             name="Skills" id="Edu1"></a>🌸Education🌸<br>
         </h1>
         <br>
-        <div class="accordion accordion-flush mx-auto p-2" style="width: 200px;" id="accordionFlushExample">
+        <div class="accordion accordion-flush mx-auto p-2" style="width: 400px;"
+
+          id="accordionFlushExample">
           <div class="accordion-item">
             <h2 class="accordion-header"> <button class="accordion-button collapsed"
 
@@ -322,12 +324,13 @@
         <h1><br>
           <a name="contact" id="contact"></a>🌸Contact🌸</h1>
       </div>
-      <div class="row py-4 mx-auto p-2">
+      <div class="row py-4 ">
         <div><img src="images/sm.png" class="imgcenter d-block d-md-none" alt="sm"
 
             style="width: 183px; height: auto;"></div>
-        <img src="images/md.png" class="imgcenter d-none d-md-block" alt="md" style="width: 960px; height: 127px;">
-      </div>
+        <img src="images/md.png" class="imgcenter d-none d-md-block"
+
+          alt="md" style="width: 960px; height: auto;"> </div>
       <hr>
       <div class="row">
         <h6 class="text-center">made by Patchamon Khemthong 175</h6>
